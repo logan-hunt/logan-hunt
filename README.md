@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @logan-hunt
+- 👀 I’m interested in data / stream processing
+- 🌱 I’m currently learning spark, scala, ksqldb, kstreams and other stream processing tools
